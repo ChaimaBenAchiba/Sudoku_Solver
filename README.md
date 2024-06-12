@@ -13,6 +13,7 @@ This repository contains a Python script to solve Sudoku puzzles programmaticall
      •	Reset Sudoku: Reverts a solved Sudoku puzzle to its initial unsolved state.
      •	Print Grid: Displays the Sudoku grid in a readable format for easy visualization.
 
+![Capture d'écran 2024-06-12 222357](https://github.com/ChaimaBenAchiba/Sudoku_Solver/assets/168870781/8043a6ce-2978-4d85-96ca-73d9a95efdbd)
 # Implementation Details
 •	Sudoku Grid: Represented as a 2D list in Python where 0 denotes empty cells.
 •	Backtracking Algorithm: Utilized to fill in empty cells by recursively attempting possible numbers.
