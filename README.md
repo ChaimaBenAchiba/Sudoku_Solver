@@ -16,9 +16,14 @@ This repository contains a Python script to solve Sudoku puzzles programmaticall
 ![Capture d'écran 2024-06-12 222357](https://github.com/ChaimaBenAchiba/Sudoku_Solver/assets/168870781/8043a6ce-2978-4d85-96ca-73d9a95efdbd)
 # Implementation Details
 •	Sudoku Grid: Represented as a 2D list in Python where 0 denotes empty cells.
+
 •	Backtracking Algorithm: Utilized to fill in empty cells by recursively attempting possible numbers.
+
 •	Helper Functions:
+
       *solve_sudoku(grid): Recursive function that solves the Sudoku puzzle.
+      
       *find_empty_cell(grid): Helper function to find the next empty cell in the grid.
+      
      * is_valid(grid, row, col, num): Checks if placing num at (row, col) is valid according to Sudoku rules.
 
