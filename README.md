@@ -12,7 +12,7 @@ This repository contains a Python script to solve Sudoku puzzles programmaticall
      •	Solve Sudoku: Automatically solves Sudoku puzzles using a backtracking algorithm.
      •	Reset Sudoku: Reverts a solved Sudoku puzzle to its initial unsolved state.
      •	Print Grid: Displays the Sudoku grid in a readable format for easy visualization.
-![Sudoku Solver Screenshot](C:\Users\AH-INFO\Pictures\Screenshots\Capture d'écran 2024-06-12 222357.png)
+![Sudoku Solver Screenshot](https://github.com/ChaimaBenAchiba/Sudoku_Solver/issues/1#issue-2349717474.png)
 https://github.com/ChaimaBenAchiba/Sudoku_Solver/issues/1#issue-2349717474
 
 # Implementation Details
